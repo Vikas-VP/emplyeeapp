@@ -16,7 +16,7 @@ export const Header = () => {
           <MenuIcon style={{ fill: "#ffff" }} />
         </div>
         <div>
-          <h3 id="header-text">Dreams Technologies</h3>
+          <h3 id="header-text">Appknit Tech</h3>
         </div>
       </div>
       <div id="right-content">
